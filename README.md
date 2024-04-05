@@ -2,7 +2,7 @@
 Automating my LinkedIn to greet every connection, Because Why not!
 - It can also play detective and guess your Age and Gender 🤭
 
-![Banner](mm.jpeg)
+![Banner](mm.png)
 
 # LinkedIn Automation Toolkit
 
@@ -55,5 +55,5 @@ Quickly and easily accept all LinkedIn invitations and send a personalized intro
   - `first_message`: First message to be sent
   - `cron`: Cron params for Naas scheduler. More information: [crontab.guru](https://crontab.guru/)
  
-Isn't it amazing how every connection request gets a response faster than a LinkedIn influencer posting about #MotivationMonday? Talk about networking at the speed of Wi-Fi! 💬
+Isn't it amazing how every connection request gets a response faster than a LinkedIn influencer posting about #MotivationMonday? Talk about networking at the speed of Wi-Fi!
 
